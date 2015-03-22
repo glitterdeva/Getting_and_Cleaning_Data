@@ -5,9 +5,9 @@ Description: This code book describes variables, data and work performed to clea
 We are assuming that data is unzipped into the working directory, so run_analysis.R runs from the same directory (commented out for Github)
 
 ## Variables
-activity_labels, feature_names (for feature names and activites)
-X_test, y_test to load and process X_test and y_test data
-extract_features - to extract measurments on mean and SD for each measurment
+* activity_labels, feature_names (for feature names and activites)
+* X_test, y_test to load and process X_test and y_test data
+* extract_features - to extract measurments on mean and SD for each measurment
 
 test_data train_data - test and training data
 data - merge test and train data
