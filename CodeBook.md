@@ -2,7 +2,7 @@
 Description: This code book describes variables, data and work performed to cleanup the data
 
 # Data source
-This dataset came from the "Human Activity Recognition Using Smartphones Data Set" available here: "http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"
+This dataset came from the "Human Activity Recognition Using Smartphones Data Set" available here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Assumptions
 We are assuming that data is unzipped into the working directory, so run_analysis.R runs from the same directory (commented out for Github)
